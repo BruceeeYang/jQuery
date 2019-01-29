@@ -1,0 +1,88 @@
+body{
+    background-color: #4A4F56;
+    padding: 0px;
+}
+
+.jquery{
+    width: 85%;
+    height: 520px;
+    margin: auto;
+    margin-top: 60px;
+    padding: 20px;
+    border: 3px solid #99A0A8;
+
+}
+
+.project{
+
+    display: flex;
+    flex-direction: row;
+}
+
+.projectList{
+    margin: 5px 20px;
+    flex: 1;
+}
+
+.name{
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 26px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+}
+
+.projectName{
+    font-size: 36px;
+    color: white;
+    margin-left: 25px;
+    margin-top: 40px;
+}
+
+.practice{
+    font-size: 24px;
+    color: #99A0A8;
+    font-style: oblique;
+    margin-left: 25px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+ul li{
+    list-style: none;
+}
+
+ul{
+    width: 250px;
+    height: 240px;
+    background-color: #333843;
+    padding-top: 10px;
+    color: rgb(114, 120, 133);
+    border: 1px solid #333843;
+    border-radius: 5px;
+}
+
+h3{
+    color: rgb(215, 219, 223);
+    padding: 0px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+h4{
+    padding: 0px;
+    margin: 5px;
+}
+
+.footnote{
+    font-size: 28px;
+    color: rgb(189, 192, 196);
+    text-align: center;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.buttonGap{
+     margin-bottom: 20px;
+}
